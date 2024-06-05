@@ -77,4 +77,6 @@ for town, cities in X.items():
     print( town, cities)
     for A, B in X.items():
         print (A, B)
+
+print
     
