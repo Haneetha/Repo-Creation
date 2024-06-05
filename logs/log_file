@@ -1,0 +1,18 @@
+WARNING:root:Warning: This is first Log for add is:8
+DEBUG:root:Debug: This is first Log for add is:8
+ERROR:root:Error: This is first Log for add is:8
+CRITICAL:root:Critical: This is first Log for add is:8
+INFO:root:Info: This is first Log for add is:8
+WARNING:root:This is first Log for multiply is:15
+2024-05-30 02:32:52,194 - WARNING : Warning: This is first Log for add is:8
+2024-05-30 02:32:52,195 - DEBUG : Debug: This is first Log for add is:8
+2024-05-30 02:32:52,195 - ERROR : Error: This is first Log for add is:8
+2024-05-30 02:32:52,195 - CRITICAL : Critical: This is first Log for add is:8
+2024-05-30 02:32:52,195 - INFO : Info: This is first Log for add is:8
+2024-05-30 02:32:52,195 - WARNING : This is first Log for multiply is:15
+05/30/2024 02:36:49 AM - WARNING : Warning: This is first Log for add is:8
+05/30/2024 02:36:49 AM - DEBUG : Debug: This is first Log for add is:8
+05/30/2024 02:36:49 AM - ERROR : Error: This is first Log for add is:8
+05/30/2024 02:36:49 AM - CRITICAL : Critical: This is first Log for add is:8
+05/30/2024 02:36:49 AM - INFO : Info: This is first Log for add is:8
+05/30/2024 02:36:49 AM - WARNING : This is first Log for multiply is:15
