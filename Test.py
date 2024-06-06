@@ -78,5 +78,5 @@ for town, cities in X.items():
     for A, B in X.items():
         print (A, B)
 
-print
+print("Creating new branch")
     
